@@ -1,6 +1,6 @@
 {
   "name": "create-spinner",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Create an elegant spinner with ease",
   "main": "index.js",
   "scripts": {
